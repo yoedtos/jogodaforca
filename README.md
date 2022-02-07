@@ -6,7 +6,8 @@ Criei a classe FailedTry para visualizar a forca conforme os erros vão acumulan
 ### ScreenShot
 ![alt text](failedtry.png?raw=true)
 
-### commandos
+### Commads
+
 Para fazer o build
 
 `mvn clean package`
